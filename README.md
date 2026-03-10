@@ -79,7 +79,7 @@ axis-finance/
 - **Limpeza automática** de colunas vazias antes do carregamento
 - **Path relativo** para o Excel — funciona em qualquer máquina
 
-## 👤 Autor
+## Autor
 
 **Hoalison Cavalcanti**  
 [github.com/Ho-Cavalcanti](https://github.com/Ho-Cavalcanti) · hoalisoncavalcanti@gmail.com
